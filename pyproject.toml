@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "tapz-pastebin"
+version = "0.1.0"
+description = ""
+authors = ["Nael Vindolet"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.23.0"
+click = "^7.0"
